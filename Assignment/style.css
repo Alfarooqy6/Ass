@@ -1,0 +1,49 @@
+/*selector {properties: properties-value;}*/
+header{
+    background-color:rgb(217, 255, 0);
+    font-style: normal;
+    font-size: 30px;
+
+
+
+}
+section{
+    background-color: rgb(217, 255, 0);
+
+
+
+
+}
+link{
+    background-color:crimson;
+    text-align: center;
+
+
+
+}
+img {width: 800px;
+    height: 500px;
+
+
+
+}
+h1{
+
+    font-style:oblique ;
+    color:crimson;
+    text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-transform: uppercase;
+font-size:40px ;
+}
+h2{
+    font-style: normal ;
+    color:crimson;
+text-transform: uppercase;
+}
+body{
+        background-color: gold;
+
+}
+
+
